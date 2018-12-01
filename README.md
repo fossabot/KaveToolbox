@@ -130,6 +130,8 @@ Remember the help at this stage  [--help]
 * 2: Installing the head from git, Example given using ssh.
 ```
 #test ssh keys with
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fboersmamarcel%2FKaveToolbox.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fboersmamarcel%2FKaveToolbox?ref=badge_shield)
+
 ssh -T git@github.com
 #if this works,
 git clone git@github.com:KaveIO/KaveToolbox.git
@@ -389,3 +391,7 @@ xsetroot -solid grey
 xterm -geometry 80x24+10+10 -ls -title "$VNCDESKTOP Desktop" &
 twm &
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fboersmamarcel%2FKaveToolbox.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fboersmamarcel%2FKaveToolbox?ref=badge_large)
